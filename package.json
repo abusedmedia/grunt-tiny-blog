@@ -1,0 +1,14 @@
+{
+  "name": "grunt-tiny-blog",
+  "description": "Plugin that build a simple blog using templates out of a list of html body files.",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "async": "~0.2.10"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.2"
+  }
+}
